@@ -1,0 +1,16 @@
+Technology : Ionic 4 for Front End + Angular 5 for Backend. 
+
+API : Codeignitor
+
+Database : MySQL.
+
+Android/iOS + Web : ionic 4 base will be used internally
+
+
+
+- Page Management
+- User Management
+- User Rights Management
+- Templates Emailing/Sms Management
+- SEO Management
+- Financial Management for Accounts/Payments/Escrow
